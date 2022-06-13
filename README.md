@@ -1,5 +1,6 @@
 # durham_college
 This repository show the exercise that has been done during 8 months courses at Durham College.
+
 Lab2-Logistic Regression -> classification problem to detect Breast Cancer using logistic regression from Scikit-Learn library
 Lab2-Random Forest -> classification problem to detect Breast Cancer using Random Forest from Scikit-Learn library
 
